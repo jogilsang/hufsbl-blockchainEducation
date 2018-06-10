@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+    android:background="@color/white"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <LinearLayout android:layout_width="match_parent" 
+                 android:layout_height="match_parent"
+                android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        >
+
+    <EditText android:id="@+id/hash_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint=" Input Your Value"/>
+
+    <Button android:id="@+id/button"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+        android:text="INSERT"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
+
+    <ImageView
+        android:id="@+id/hash_function"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/hash_function"
+        android:layout_centerInParent="true"
+        />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/hash_value"
+    android:layout_below="@id/hash_function"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/hash_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="null"
+        tools:text = "ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:maxLength="65"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+
+</LinearLayout>
+
+
+
+</RelativeLayout>

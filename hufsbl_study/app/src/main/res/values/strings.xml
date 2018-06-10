@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hufsbl_study</string>
+
+    <string name="menu_invite">Share an app</string>
+    <string name="menu_personal">My Info</string>
+    <string name="menu_test">Test</string>
+    <string name="menu_login">Login</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_notice">Info</string>
+    <string name="menu_version">Version</string>
+    <string name="menu_exit">Exit</string>
+    <string name="to_be_continue">To be Continue...</string>
+    <string name="text_required">Please input your value</string>
+
+</resources>

@@ -3,9 +3,6 @@
 About the basic concept of block chain
 It can be easily understood with pictures.
 
-App DownLoad
-=============
-Playstore : https://play.google.com/store/apps/details?id=blockchain.com.hufsbl.hufsbl_study
 
 Image
 =============
@@ -13,6 +10,12 @@ if you insert any text, you can get hash-value !!!
 
 
 ![Alt text](/image/gif/week1.gif)
+
+App DownLoad
+=============
+Playstore : https://play.google.com/store/apps/details?id=blockchain.com.hufsbl.hufsbl_study
+
+
 
 Cotact
 =============

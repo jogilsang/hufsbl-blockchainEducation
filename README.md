@@ -1,5 +1,12 @@
 # hufsbl-study
 
+Image
+=============
+if you insert any text, you can get hash-value !!!
+
+
+![Alt text](/image/gif/week1.gif)
+
 Cotact
 =============
 
@@ -19,11 +26,6 @@ Based on the weekly study.
 Anyone can easily understand the block chain  
 Visualize the content in this app  
 
-Image
-=============
-if you insert any text, you can get hash-value !!!
 
-
-![Alt text](/image/gif/week1.gif)
 
 <hr/>

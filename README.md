@@ -1,6 +1,9 @@
 # hufsbl-study
 
-DownLoad
+About the basic concept of block chain
+It can be easily understood with pictures.
+
+App DownLoad
 =============
 Playstore : https://play.google.com/store/apps/details?id=blockchain.com.hufsbl.hufsbl_study
 
